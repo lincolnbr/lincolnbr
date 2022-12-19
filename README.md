@@ -49,4 +49,4 @@
 ## 📊 Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnbr&show_icons=true&theme=tokyonight)
-[![Ryan-Menezes](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnbr&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/lincolnbr/)
+[![lincolnbr](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnbr&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/lincolnbr/)
