@@ -1,4 +1,4 @@
-
+![](https://raw.githubusercontent.com/lincolnbr/lincolnbr/main/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <h1 align="center">Welcome to Ryan profile!</h1>
 <!-- Social icons section -->
