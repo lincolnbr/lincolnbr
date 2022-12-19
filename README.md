@@ -6,14 +6,7 @@
   <a href="mailto:lincoln@belasco.com.br"><img src="https://img.shields.io/badge/-Gmail-FC361C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/lincolnbr/"><img src="https://img.shields.io/badge/-Instagram-DD1054?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lincolnbr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://gitlab.com/lincolnbr" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-292961?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/lincolnbr">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lincolnbr"/></a>
-  <a href="https://github.com/lincolnbr?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lincolnbr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+
 ## 🛠️ Skills
 ### 👨‍💻 Programming languages
 <p>
