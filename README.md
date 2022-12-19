@@ -1,18 +1,18 @@
 ![](https://raw.githubusercontent.com/lincolnbr/lincolnbr/main/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<h1 align="center">Welcome to Ryan profile!</h1>
+<h1 align="center">Welcome to Lincoln Belasco profile!</h1>
 <!-- Social icons section -->
 <p align="center">
-  <a href="mailto:menezesryan1010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FC361C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ry4n_menezes/"><img src="https://img.shields.io/badge/-Instagram-DD1054?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ryan-menezes-845080201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://gitlab.com/Ryan-Menezes" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-292961?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+  <a href="mailto:lincoln@belasco.com.br"><img src="https://img.shields.io/badge/-Gmail-FC361C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lincolnbr/"><img src="https://img.shields.io/badge/-Instagram-DD1054?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lincolnbr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://gitlab.com/lincolnbr" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-292961?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Ryan-Menezes?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Ryan-Menezes"/></a>
-  <a href="https://github.com/Ryan-Menezes?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Ryan-Menezes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/lincolnbr">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lincolnbr"/></a>
+  <a href="https://github.com/lincolnbr?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lincolnbr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 ## 🛠️ Skills
 ### 👨‍💻 Programming languages
@@ -48,5 +48,5 @@
 </p><br/>
 ## 📊 Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Menezes&show_icons=true&theme=tokyonight)
-[![Ryan-Menezes](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Menezes&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/Ryan-Menezes/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnbr&show_icons=true&theme=tokyonight)
+[![Ryan-Menezes](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnbr&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/lincolnbr/)
